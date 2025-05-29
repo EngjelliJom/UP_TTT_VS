@@ -168,4 +168,4 @@ Player X wins!
 
 ## License
 
-This code is open source and free to use for educational or personal projects.
+This code is open source and free to use for educational or personal projects :) 
